@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "org.ggfan.signin",
+        "sha256_cert_fingerprints": ["BE:E0:52:C4:B4:3E:C6:0B:9A:99:2B:F1:8F:CB:2F:96:0D:1E:06:06:EE:E1:D3:34:FA:9F:80:D8:67:61:88:48"]
+      }
+    }]
